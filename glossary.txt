@@ -6,7 +6,7 @@ Import:
   Your definition:
 
 Clone:
-  Your definition:
+  Your definition: When a GitHub repository is copied to a local system without affecting the original GitHub repository
 
 Fork:
   Your definition:
@@ -18,7 +18,7 @@ Pull request:
   Your definition:
 
 Merge:
-  Your definition:
+  Your definition: When two different commit histories are meshed together into one branch with git trying it's best to fix any potential conflicts
 
 Upstream tracking (git push -u):
   Your definition:
